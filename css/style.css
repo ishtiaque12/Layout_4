@@ -1,0 +1,43 @@
+header{
+    background-color: yellow;
+    text-align: center;
+    height: 100px;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    float: left;
+    height: 500px;
+    background-color: violet;
+    width: 25%;
+}
+.center{
+    float: left;
+    height: 500px;
+    background-color: orangered;
+    width: 50%;
+}
+.center_one{
+    height: 25%;
+    background-color: grey;
+}
+.center_two{
+    height: 50%;
+    background-color: black;
+}
+.center_three{
+    height: 25%;
+    background-color: chocolate;
+}
+.right{
+    float: left;
+    height: 500px;
+    background-color: brown;
+    width: 25%;
+}
+footer{
+    background-color: green;
+    text-align: center;
+    height: 100px;
+}
